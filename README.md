@@ -1,4 +1,4 @@
 # SQL
-Digit n Data \n
+Digit n Data 
 
 SQL Queries
